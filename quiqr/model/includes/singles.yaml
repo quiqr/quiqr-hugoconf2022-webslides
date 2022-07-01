@@ -1,0 +1,25 @@
+- key: images
+  description: global images
+  _mergePartial: https://raw.githubusercontent.com/quiqr/model-partials/main/singles/global-images.yml
+
+- key: slideContent
+  title: Slides Content
+  file: ./content/_index.md
+  description: One big file with all slides content
+  fields:
+    - key: mainContent
+      title: Main content
+      type: markdown
+
+- key: etalage
+  _mergePartial: etalage
+
+- key: readme
+  _mergePartial: readme
+
+- key: dashboard
+  _mergePartial: dashboard
+
+- key: mainConfig
+  _mergePartial: config
+

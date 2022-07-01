@@ -1,0 +1,4 @@
+include:
+  - project: 'system/quiqr-build-include'
+    ref: main
+    file: '/main.yml'

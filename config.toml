@@ -1,0 +1,51 @@
+baseURL = "https://example.com"
+disableKinds = [
+  "sitemap",
+  "RSS"
+]
+enableRobotsTXT = true
+features = [
+  "webslides.js",
+  "pre-made template",
+  "shortcodes"
+]
+googleAnalytics = ""
+languageCode = "en-us"
+resources = []
+tags = [
+  "slide",
+  "presentation",
+  "responsive",
+  "landing page"
+]
+theme = "hugo-webslides"
+title = "Quiqr Presentatie Early Investors"
+
+[markup]
+
+  [markup.goldmark]
+
+    [markup.goldmark.parser]
+
+      [markup.goldmark.parser.attribute]
+      block = true
+
+    [markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+author = "RCJacH"
+homepage = "RCJacH.github.io"
+
+  [params.webslides]
+  autoslide = false
+  banner = false
+  changeOnClick = false
+  disableLoop = false
+  disableNavigateOnScroll = false
+  hideIndex = false
+  minWheelDelta = 40.0
+  scrollWait = 450.0
+  slideOffset = 50.0
+  slideshow = true
+  vertical = false

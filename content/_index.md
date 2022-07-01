@@ -56,14 +56,13 @@ Demo...
 |||
 
 &nbsp;<br/>
-&nbsp;&nbsp;*Quiqr is just an shameless fork of Hokus*
+&nbsp;&nbsp;*Quiqr is just an shameless fork of [Hokus CMS](https://www.hokuscms.com)*
 
 
 All credits go to **Juliano Appel Klein** - <img class="avatar-40" src="/images/3170711.jpg" />
 
 &nbsp;&nbsp;• Juliano is the creator of Hokus CMS<br>
 &nbsp;&nbsp;•  and inventor of the UI builder definitions
-
 
 |||
 

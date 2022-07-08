@@ -3,6 +3,6 @@
 
 # Quiqr in a nutshell
 
-Webslides Presentation from the [HugoConf 2022](https://hugoconf.io/). Use this presentation as Quiqr Template or just [walk through the slides](https://quiqr.github.io/quiqr-hugoconf2022-webslides/).
+Webslides Presentation from the [HugoConf 2022](https://hugoconf.io/). Use this presentation as Quiqr Template or just [walk through the slides](slideshugoconf2022.quiqr.org/).
 
 

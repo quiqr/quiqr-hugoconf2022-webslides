@@ -1,9 +1,9 @@
 {
-  "name": "",
-  "description": "",
-  "homepage": "",
-  "license": "",
-  "licenseURL": "",
-  "author": "",
-  "authorHomepage": ""
+  "name": "Webslides Quiqr in a nutshell",
+  "description": "The slides of Pim’s Lightning Talk at the Hugo Conf 2022",
+  "homepage": "https://github.com/quiqr/quiqr-hugoconf2022-webslides",
+  "license": "CC0-1.0",
+  "licenseURL": "https://github.com/quiqr/quiqr-hugoconf2022-webslides/blob/main/LICENSE",
+  "author": "Pim Snel",
+  "authorHomepage": "https://pimsnel.com"
 }
